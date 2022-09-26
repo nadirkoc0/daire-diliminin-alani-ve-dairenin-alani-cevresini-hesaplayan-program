@@ -1,4 +1,4 @@
-# Daire Diliminin Alani ve Dairenin Alanını, Çevresini Hesaplayan Program
+# Daire Diliminin Alanı ve Dairenin Alanını, Çevresini Hesaplayan Program
 Bu projeyi JAVA 101 eğitimi ile yaptım.
 
 ## Programın Kodunun Fotoğrafı
